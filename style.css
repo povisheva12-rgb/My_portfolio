@@ -148,6 +148,7 @@ h2 {
 
 .img3 {
     width: 20px;
+    border-radius: 5px;
 }
 
 .a2 {
@@ -155,6 +156,7 @@ h2 {
     color: white;
     margin: 10px;
     font-size: 15px;
+    
 }
 
 .text-51 {
